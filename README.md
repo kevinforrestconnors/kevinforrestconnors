@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: he/him/his
-- 🌱 I’m currently learning scrypto
+- 🌱 One day id' like to learn scrypto
 - ⚡ Fun fact: I'm a big fan of [Pangea Games](https://pangeasoft.net/macGames.html)
 
 
