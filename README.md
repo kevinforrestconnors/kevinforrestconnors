@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 - 😄 Pronouns: he/him/his
-- 🌱 One day id' like to learn scrypto
+- λ fan of functional programming (where's the lambda emoji?)
+- ❓ I love writing tests
+- 🌱 Learning Rust and Scrypto
 - ⚡ Fun fact: I'm a big fan of [Pangea Games](https://pangeasoft.net/macGames.html)
 
 
